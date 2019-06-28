@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-image: url(../images/textured_paper.png);
 }
 
 header {
@@ -41,8 +41,6 @@ a {
     margin-top: 20px;
 }
 
-
-
 .combo {
     position: relative;
     float: left;
@@ -77,7 +75,10 @@ h2 {
 
 }
 
+.section {
+   
 
+}
 
 .contactform {
     color: #777777;
@@ -126,6 +127,14 @@ textarea {
 
 .form {
     padding: 10px;
+}
+
+.form-group {
+    width: 95%;
+}
+
+#messagetxt {
+    margin-left: 20px;
 }
 
 footer {
