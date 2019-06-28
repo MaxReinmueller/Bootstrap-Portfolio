@@ -9,7 +9,6 @@ header {
     text-align: center;
     padding: 10px;
     margin: 0  auto;
-    margin-top: 20px;
     
 }
 
@@ -38,8 +37,8 @@ a {
 .whitebox {
     background-color: white;
     padding: 10px;
-  
-
+    margin-bottom: 90px;
+    margin-top: 20px;
 }
 
 
@@ -115,4 +114,34 @@ label {
 
 textarea {
     height: 75px;
+}
+
+
+
+
+.card {
+     margin: 0 auto;
+     padding-bottom: 10px;
+}
+
+.form {
+    padding: 10px;
+}
+
+footer {
+    clear: both;
+    overflow: auto;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+   }
+
+   #line {
+    height: 10px;
+    width: 100%;
+    background-color: #4aaaa5;
+    margin: 0 auto;
 }
